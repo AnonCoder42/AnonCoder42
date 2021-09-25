@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @AnonCoder42
+- 👀 I’m interested in FFXI
+- 🌱 I’m currently learning Lua
+- 📫 How to reach me ... Please don't.
